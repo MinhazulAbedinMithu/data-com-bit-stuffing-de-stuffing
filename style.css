@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.heading{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 800;
+    color: #14b700;
+    font-size: 50px;
+}
+.author{
+    font-family: cursive;
+}
+span{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 10px;
+}
+input[type=number]{
+    width: 50%;
+}
