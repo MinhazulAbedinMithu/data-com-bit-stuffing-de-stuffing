@@ -14,7 +14,7 @@
 }
 span{
     font-size: 25px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: blue;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
